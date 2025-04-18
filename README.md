@@ -1,6 +1,6 @@
 # 🚀 Selenium Automation Framework (with Java)
 
-A robust and scalable Selenium Automation Framework built using Java and TestNG, equipped with modern features and utilities to support both local and cloud-based executions.
+A robust and scalable Selenium Automation Framework built using Java and TestNG, equipped with modern features and utilities to support both local and cloud-based executions. This is custom hybrid framework which can handle multiple projects. 
 
 ---
 
@@ -27,7 +27,7 @@ A robust and scalable Selenium Automation Framework built using Java and TestNG,
 Use the following Maven command to run the tests:
 
 ```bash
-mvn test -Dsurefire.suiteXmlFiles=testng.xml
+mvn test -Dsurefire.suiteXmlFiles=testng_vwo_pom.xml
 ```
 
 ---
