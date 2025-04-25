@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d856a4-c9d7-42c5-b720-9a4a8212818a" name="Changes" comment="Framework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/base/CommonToAllPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/driver/DriverManagerSelenoidGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/driver/DriverManagerTL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageFactory/appvwo/DashBoardPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageFactory/appvwo/LoginPage_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageFactory/kataloncura/LoginPageKatalon_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageFactory/orangeHRM/LoginPage_OrangeHRM_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/imporved_POM/DashBoardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/imporved_POM/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/normal_POM/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/normal_POM/ForgotPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/normal_POM/FreeTrialPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/normal_POM/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/appvwo/normal_POM/SupportPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/kataloncura/AppointmentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/kataloncura/LoginPageKatalon_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/kataloncura/MakeBookingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/orangeHRM/EmployeeListHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/pages/pageObjectModel/orangeHRM/LoginPageOrangeHRM_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/utils/PropertiesReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prasad_v/utils/WaitHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/UtilsExcel/UtilExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/base/CommonToAllTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/listeners/RetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/listeners/RetryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/listeners/ScreenshotListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pageFactory/TestVWOLogin_PF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_01_NormalScript_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_02_PropertyReader_DriverManager_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_03_PropertyReader_DriverManager_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_04_PropertyReader_DriverManager_POM_CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/tests/pom/vwo/ddt/test_DDT_TestNG_POI_REAL_VWOLOGIN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,11 +141,28 @@
       <option name="project" value="LOCAL" />
       <updated>1744950388728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Log4j, Page Factory">
+      <option name="closed" value="true" />
+      <created>1744953343416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744953343416</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Framework">
+      <option name="closed" value="true" />
+      <created>1744953465954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744953465954</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Setup" />
+    <MESSAGE value="Log4j, Page Factory" />
     <MESSAGE value="Framework" />
     <option name="LAST_COMMIT_MESSAGE" value="Framework" />
   </component>
