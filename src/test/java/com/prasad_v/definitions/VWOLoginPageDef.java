@@ -13,7 +13,8 @@ import org.testng.Assert;
 import java.time.Duration;
 
 
-public class VWOLoginPageDef {
+public class
+VWOLoginPageDef {
 
     private static WebDriver driver;
     public final static int TIMEOUT = 10;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/src/test/java/com/prasad_v/tests/pom/vwo/TestVWOLogin_Retry.java">
+        <classes>
+            <class name="com.prasad_v.tests.pom.vwo.TestVWOLogin_Retry">
+                <methods>
+                    <include name="testFail"/>
+                    <include name="testPass"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

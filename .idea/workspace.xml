@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28d856a4-c9d7-42c5-b720-9a4a8212818a" name="Changes" comment="Framework">
+    <list default="true" id="28d856a4-c9d7-42c5-b720-9a4a8212818a" name="Changes" comment="BDD Cucumber">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prasad_v/definitions/VWOLoginPageDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prasad_v/definitions/VWOLoginPageDef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;TestNG.C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/testng.xml.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/testng_vwo_pom.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_01_NormalScript_POM.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -66,7 +68,7 @@
       <recent name="C:\Users\prasa\IdeaProjects\ATB10xSeleniumAdvanceFramework\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/testng_vwo_pom.xml">
+  <component name="RunManager" selected="TestNG.TestVWOLogin_01_NormalScript_POM">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prasad_v.base.Hello" />
       <module name="ATB10xSeleniumAdvanceFramework" />
@@ -100,8 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestVWOLogin_01_NormalScript_POM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB10xSeleniumAdvanceFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prasad_v.tests.pom.vwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prasad_v.tests.pom.vwo" />
+      <option name="MAIN_CLASS_NAME" value="com.prasad_v.tests.pom.vwo.TestVWOLogin_01_NormalScript_POM" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestVWOLogin_01_NormalScript_POM" />
         <item itemvalue="TestNG.C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/testng_vwo_pom.xml" />
         <item itemvalue="TestNG.C:/Users/prasa/IdeaProjects/ATB10xSeleniumAdvanceFramework/testng.xml" />
         <item itemvalue="Application.Hello" />
@@ -181,13 +201,22 @@
       <option name="project" value="LOCAL" />
       <updated>1746209154366</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="BDD Cucumber">
+      <option name="closed" value="true" />
+      <created>1746355115692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746355115692</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Setup" />
     <MESSAGE value="Log4j, Page Factory" />
     <MESSAGE value="Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Framework" />
+    <MESSAGE value="BDD Cucumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="BDD Cucumber" />
   </component>
 </project>
